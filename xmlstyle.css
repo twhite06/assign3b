@@ -1,0 +1,9 @@
+ songs {
+  font-family: monospace; 
+  color: #0649FC;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-top-width: 10px;
+  border-bottom-width: 10px;
+  text-align: center;
+}
